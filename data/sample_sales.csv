@@ -1,0 +1,145 @@
+order_id,order_date,customer_id,product,category,region,channel,quantity,unit_price,unit_cost,discount_pct,payment_method,order_status
+O1001,2025-01-01,C0100,Wireless Mouse,Electronics,North,Website,1,18.90,9.00,0,UPI,Returned
+O1002,2025-01-04,C0113,Travel Backpack,Accessories,South,Marketplace,2,54.60,27.00,0,Card,Completed
+O1003,2025-01-07,C0126,Water Bottle,Sports,East,Mobile App,3,16.30,6.00,5,Wallet,Completed
+O1004,2025-01-10,C0139,Mechanical Keyboard,Electronics,West,Website,1,68.00,34.00,10,Net Banking,Completed
+O1005,2025-01-13,C0152,Hair Dryer,Beauty,Central,Marketplace,2,43.70,22.00,15,UPI,Completed
+O1006,2025-01-16,C0165,Cotton Bedsheet,Home,North,Mobile App,3,42.40,19.00,0,Card,Completed
+O1007,2025-01-19,C0178,USB-C Hub,Electronics,South,Website,1,40.10,16.00,0,Wallet,Completed
+O1008,2025-01-22,C0191,Skincare Set,Beauty,East,Marketplace,2,30.90,15.00,5,Net Banking,Completed
+O1009,2025-02-12,C0117,Running Shoes,Sports,South,Mobile App,2,78.60,41.00,0,Card,Completed
+O1010,2025-02-15,C0130,Wireless Mouse,Electronics,East,Website,3,22.30,9.00,5,Wallet,Completed
+O1011,2025-02-18,C0143,Travel Backpack,Accessories,West,Marketplace,1,58.00,27.00,10,Net Banking,Completed
+O1012,2025-02-21,C0156,Water Bottle,Sports,Central,Mobile App,2,19.70,6.00,15,UPI,Completed
+O1013,2025-02-24,C0169,Mechanical Keyboard,Electronics,North,Website,3,71.40,34.00,0,Card,Completed
+O1014,2025-02-27,C0182,Hair Dryer,Beauty,South,Marketplace,1,47.10,22.00,0,Wallet,Completed
+O1015,2025-02-03,C0195,Cotton Bedsheet,Home,East,Mobile App,2,33.90,19.00,5,Net Banking,Completed
+O1016,2025-02-06,C0208,USB-C Hub,Electronics,West,Website,3,31.60,16.00,10,UPI,Completed
+O1017,2025-03-23,C0134,Storage Organizer,Home,East,Marketplace,3,23.30,10.00,5,Wallet,Completed
+O1018,2025-03-26,C0147,Running Shoes,Sports,West,Mobile App,1,82.00,41.00,10,Net Banking,Completed
+O1019,2025-03-02,C0160,Wireless Mouse,Electronics,Central,Website,2,25.70,9.00,15,UPI,Completed
+O1020,2025-03-05,C0173,Travel Backpack,Accessories,North,Marketplace,3,61.40,27.00,0,Card,Completed
+O1021,2025-03-08,C0186,Water Bottle,Sports,South,Mobile App,1,23.10,6.00,0,Wallet,Completed
+O1022,2025-03-11,C0199,Mechanical Keyboard,Electronics,East,Website,2,62.90,34.00,5,Net Banking,Completed
+O1023,2025-03-14,C0212,Hair Dryer,Beauty,West,Marketplace,3,38.60,22.00,10,UPI,Completed
+O1024,2025-03-17,C0225,Cotton Bedsheet,Home,Central,Mobile App,1,37.30,19.00,15,Card,Completed
+O1025,2025-04-07,C0151,Skincare Set,Beauty,West,Website,1,36.00,15.00,10,Net Banking,Completed
+O1026,2025-04-10,C0164,Storage Organizer,Home,Central,Marketplace,2,26.70,10.00,15,UPI,Completed
+O1027,2025-04-13,C0177,Running Shoes,Sports,North,Mobile App,3,85.40,41.00,0,Card,Completed
+O1028,2025-04-16,C0190,Wireless Mouse,Electronics,South,Website,1,29.10,9.00,0,Wallet,Completed
+O1029,2025-04-19,C0203,Travel Backpack,Accessories,East,Marketplace,2,52.90,27.00,5,Net Banking,Completed
+O1030,2025-04-22,C0216,Water Bottle,Sports,West,Mobile App,3,14.60,6.00,10,UPI,Completed
+O1031,2025-04-25,C0229,Mechanical Keyboard,Electronics,Central,Website,1,66.30,34.00,15,Card,Completed
+O1032,2025-04-01,C0242,Hair Dryer,Beauty,North,Marketplace,2,42.00,22.00,0,Wallet,Completed
+O1033,2025-05-18,C0168,USB-C Hub,Electronics,Central,Mobile App,2,36.70,16.00,15,UPI,Completed
+O1034,2025-05-21,C0181,Skincare Set,Beauty,North,Website,3,39.40,15.00,0,Card,Completed
+O1035,2025-05-24,C0194,Storage Organizer,Home,South,Marketplace,1,30.10,10.00,0,Wallet,Completed
+O1036,2025-05-27,C0207,Running Shoes,Sports,East,Mobile App,2,76.90,41.00,5,Net Banking,Completed
+O1037,2025-05-03,C0220,Wireless Mouse,Electronics,West,Website,3,20.60,9.00,10,UPI,Completed
+O1038,2025-05-06,C0233,Travel Backpack,Accessories,Central,Marketplace,1,56.30,27.00,15,Card,Completed
+O1039,2025-05-09,C0246,Water Bottle,Sports,North,Mobile App,2,18.00,6.00,0,Wallet,Completed
+O1040,2025-05-12,C0259,Mechanical Keyboard,Electronics,South,Website,3,69.70,34.00,0,Net Banking,Completed
+O1041,2025-06-02,C0185,Cotton Bedsheet,Home,North,Marketplace,3,42.40,19.00,0,Card,Completed
+O1042,2025-06-05,C0198,USB-C Hub,Electronics,South,Mobile App,1,40.10,16.00,0,Wallet,Completed
+O1043,2025-06-08,C0211,Skincare Set,Beauty,East,Website,2,30.90,15.00,5,Net Banking,Completed
+O1044,2025-06-11,C0224,Storage Organizer,Home,West,Marketplace,3,21.60,10.00,10,UPI,Completed
+O1045,2025-06-14,C0237,Running Shoes,Sports,Central,Mobile App,1,80.30,41.00,15,Card,Completed
+O1046,2025-06-17,C0250,Wireless Mouse,Electronics,North,Website,2,24.00,9.00,0,Wallet,Completed
+O1047,2025-06-20,C0263,Travel Backpack,Accessories,South,Marketplace,3,59.70,27.00,0,Net Banking,Completed
+O1048,2025-06-23,C0276,Water Bottle,Sports,East,Mobile App,1,21.40,6.00,5,UPI,Completed
+O1049,2025-07-13,C0202,Hair Dryer,Beauty,South,Website,1,47.10,22.00,0,Wallet,Completed
+O1050,2025-07-16,C0215,Cotton Bedsheet,Home,East,Marketplace,2,33.90,19.00,5,Net Banking,Completed
+O1051,2025-07-19,C0228,USB-C Hub,Electronics,West,Mobile App,3,31.60,16.00,10,UPI,Completed
+O1052,2025-07-22,C0241,Skincare Set,Beauty,Central,Website,1,34.30,15.00,15,Card,Completed
+O1053,2025-07-25,C0254,Storage Organizer,Home,North,Marketplace,2,25.00,10.00,0,Wallet,Completed
+O1054,2025-07-01,C0267,Running Shoes,Sports,South,Mobile App,3,83.70,41.00,0,Net Banking,Completed
+O1055,2025-07-04,C0280,Wireless Mouse,Electronics,East,Website,1,27.40,9.00,5,UPI,Completed
+O1056,2025-07-07,C0293,Travel Backpack,Accessories,West,Marketplace,2,63.10,27.00,10,Card,Completed
+O1057,2025-08-24,C0219,Mechanical Keyboard,Electronics,East,Mobile App,2,62.90,34.00,5,Net Banking,Completed
+O1058,2025-08-27,C0232,Hair Dryer,Beauty,West,Website,3,38.60,22.00,10,UPI,Completed
+O1059,2025-08-03,C0245,Cotton Bedsheet,Home,Central,Marketplace,1,37.30,19.00,15,Card,Completed
+O1060,2025-08-06,C0258,USB-C Hub,Electronics,North,Mobile App,2,35.00,16.00,0,Wallet,Completed
+O1061,2025-08-09,C0271,Skincare Set,Beauty,South,Website,3,37.70,15.00,0,Net Banking,Completed
+O1062,2025-08-12,C0284,Storage Organizer,Home,East,Marketplace,1,28.40,10.00,5,UPI,Completed
+O1063,2025-08-15,C0297,Running Shoes,Sports,West,Mobile App,2,87.10,41.00,10,Card,Completed
+O1064,2025-08-18,C0310,Wireless Mouse,Electronics,Central,Website,3,18.90,9.00,15,Wallet,Completed
+O1065,2025-09-08,C0236,Water Bottle,Sports,West,Marketplace,3,14.60,6.00,10,UPI,Completed
+O1066,2025-09-11,C0249,Mechanical Keyboard,Electronics,Central,Mobile App,1,66.30,34.00,15,Card,Completed
+O1067,2025-09-14,C0262,Hair Dryer,Beauty,North,Website,2,42.00,22.00,0,Wallet,Completed
+O1068,2025-09-17,C0275,Cotton Bedsheet,Home,South,Marketplace,3,40.70,19.00,0,Net Banking,Completed
+O1069,2025-09-20,C0288,USB-C Hub,Electronics,East,Mobile App,1,38.40,16.00,5,UPI,Completed
+O1070,2025-09-23,C0301,Skincare Set,Beauty,West,Website,2,41.10,15.00,10,Card,Completed
+O1071,2025-09-26,C0314,Storage Organizer,Home,Central,Marketplace,3,19.90,10.00,15,Wallet,Completed
+O1072,2025-09-02,C0327,Running Shoes,Sports,North,Mobile App,1,78.60,41.00,0,Net Banking,Completed
+O1073,2025-10-19,C0253,Travel Backpack,Accessories,Central,Website,1,56.30,27.00,15,Card,Completed
+O1074,2025-10-22,C0266,Water Bottle,Sports,North,Marketplace,2,18.00,6.00,0,Wallet,Completed
+O1075,2025-10-25,C0279,Mechanical Keyboard,Electronics,South,Mobile App,3,69.70,34.00,0,Net Banking,Completed
+O1076,2025-10-01,C0292,Hair Dryer,Beauty,East,Website,1,45.40,22.00,5,UPI,Completed
+O1077,2025-10-04,C0305,Cotton Bedsheet,Home,West,Marketplace,2,44.10,19.00,10,Card,Completed
+O1078,2025-10-07,C0318,USB-C Hub,Electronics,Central,Mobile App,3,29.90,16.00,15,Wallet,Completed
+O1079,2025-10-10,C0331,Skincare Set,Beauty,North,Website,1,32.60,15.00,0,Net Banking,Completed
+O1080,2025-10-13,C0344,Storage Organizer,Home,South,Marketplace,2,23.30,10.00,0,UPI,Completed
+O1081,2025-11-03,C0270,Wireless Mouse,Electronics,North,Mobile App,2,24.00,9.00,0,Wallet,Completed
+O1082,2025-11-06,C0283,Travel Backpack,Accessories,South,Website,3,59.70,27.00,0,Net Banking,Completed
+O1083,2025-11-09,C0296,Water Bottle,Sports,East,Marketplace,1,21.40,6.00,5,UPI,Completed
+O1084,2025-11-12,C0309,Mechanical Keyboard,Electronics,West,Mobile App,2,73.10,34.00,10,Card,Completed
+O1085,2025-11-15,C0322,Hair Dryer,Beauty,Central,Website,3,36.90,22.00,15,Wallet,Completed
+O1086,2025-11-18,C0335,Cotton Bedsheet,Home,North,Marketplace,1,35.60,19.00,0,Net Banking,Completed
+O1087,2025-11-21,C0348,USB-C Hub,Electronics,South,Mobile App,2,33.30,16.00,0,UPI,Completed
+O1088,2025-11-24,C0361,Skincare Set,Beauty,East,Website,3,36.00,15.00,5,Card,Returned
+O1089,2025-12-14,C0287,Running Shoes,Sports,South,Marketplace,3,83.70,41.00,0,Net Banking,Completed
+O1090,2025-12-17,C0300,Wireless Mouse,Electronics,East,Mobile App,1,27.40,9.00,5,UPI,Completed
+O1091,2025-12-20,C0313,Travel Backpack,Accessories,West,Website,2,63.10,27.00,10,Card,Completed
+O1092,2025-12-23,C0326,Water Bottle,Sports,Central,Marketplace,3,12.90,6.00,15,Wallet,Completed
+O1093,2025-12-26,C0339,Mechanical Keyboard,Electronics,North,Mobile App,1,64.60,34.00,0,Net Banking,Completed
+O1094,2025-12-02,C0352,Hair Dryer,Beauty,South,Website,2,40.30,22.00,0,UPI,Completed
+O1095,2025-12-05,C0365,Cotton Bedsheet,Home,East,Marketplace,3,39.00,19.00,5,Card,Returned
+O1096,2025-12-08,C0378,USB-C Hub,Electronics,West,Mobile App,1,36.70,16.00,10,Wallet,Completed
+O1097,2026-01-25,C0304,Storage Organizer,Home,East,Website,1,28.40,10.00,5,UPI,Completed
+O1098,2026-01-01,C0317,Running Shoes,Sports,West,Marketplace,2,87.10,41.00,10,Card,Completed
+O1099,2026-01-04,C0330,Wireless Mouse,Electronics,Central,Mobile App,3,18.90,9.00,15,Wallet,Completed
+O1100,2026-01-07,C0343,Travel Backpack,Accessories,North,Website,1,54.60,27.00,0,Net Banking,Completed
+O1101,2026-01-10,C0356,Water Bottle,Sports,South,Marketplace,2,16.30,6.00,0,UPI,Completed
+O1102,2026-01-13,C0369,Mechanical Keyboard,Electronics,East,Mobile App,3,68.00,34.00,5,Card,Returned
+O1103,2026-01-16,C0382,Hair Dryer,Beauty,West,Website,1,43.70,22.00,10,Wallet,Completed
+O1104,2026-01-19,C0395,Cotton Bedsheet,Home,Central,Marketplace,2,42.40,19.00,15,Net Banking,Cancelled
+O1105,2026-02-09,C0321,Skincare Set,Beauty,West,Mobile App,2,41.10,15.00,10,Card,Completed
+O1106,2026-02-12,C0334,Storage Organizer,Home,Central,Website,3,19.90,10.00,15,Wallet,Completed
+O1107,2026-02-15,C0347,Running Shoes,Sports,North,Marketplace,1,78.60,41.00,0,Net Banking,Completed
+O1108,2026-02-18,C0360,Wireless Mouse,Electronics,South,Mobile App,2,22.30,9.00,0,UPI,Completed
+O1109,2026-02-21,C0373,Travel Backpack,Accessories,East,Website,3,58.00,27.00,5,Card,Returned
+O1110,2026-02-24,C0386,Water Bottle,Sports,West,Marketplace,1,19.70,6.00,10,Wallet,Completed
+O1111,2026-02-27,C0399,Mechanical Keyboard,Electronics,Central,Mobile App,2,71.40,34.00,15,Net Banking,Cancelled
+O1112,2026-02-03,C0412,Hair Dryer,Beauty,North,Website,3,47.10,22.00,0,UPI,Completed
+O1113,2026-03-20,C0338,USB-C Hub,Electronics,Central,Marketplace,3,29.90,16.00,15,Wallet,Completed
+O1114,2026-03-23,C0351,Skincare Set,Beauty,North,Mobile App,1,32.60,15.00,0,Net Banking,Completed
+O1115,2026-03-26,C0364,Storage Organizer,Home,South,Website,2,23.30,10.00,0,UPI,Completed
+O1116,2026-03-02,C0377,Running Shoes,Sports,East,Marketplace,3,82.00,41.00,5,Card,Returned
+O1117,2026-03-05,C0390,Wireless Mouse,Electronics,West,Mobile App,1,25.70,9.00,10,Wallet,Completed
+O1118,2026-03-08,C0403,Travel Backpack,Accessories,Central,Website,2,61.40,27.00,15,Net Banking,Cancelled
+O1119,2026-03-11,C0416,Water Bottle,Sports,North,Marketplace,3,23.10,6.00,0,UPI,Completed
+O1120,2026-03-14,C0429,Mechanical Keyboard,Electronics,South,Mobile App,1,62.90,34.00,0,Card,Completed
+O1121,2026-04-04,C0355,Cotton Bedsheet,Home,North,Website,1,35.60,19.00,0,Net Banking,Completed
+O1122,2026-04-07,C0368,USB-C Hub,Electronics,South,Marketplace,2,33.30,16.00,0,UPI,Completed
+O1123,2026-04-10,C0381,Skincare Set,Beauty,East,Mobile App,3,36.00,15.00,5,Card,Returned
+O1124,2026-04-13,C0394,Storage Organizer,Home,West,Website,1,26.70,10.00,10,Wallet,Completed
+O1125,2026-04-16,C0407,Running Shoes,Sports,Central,Marketplace,2,85.40,41.00,15,Net Banking,Cancelled
+O1126,2026-04-19,C0420,Wireless Mouse,Electronics,North,Mobile App,3,29.10,9.00,0,UPI,Completed
+O1127,2026-04-22,C0433,Travel Backpack,Accessories,South,Website,1,52.90,27.00,0,Card,Completed
+O1128,2026-04-25,C0446,Water Bottle,Sports,East,Marketplace,2,14.60,6.00,5,Wallet,Completed
+O1129,2026-05-15,C0372,Hair Dryer,Beauty,South,Mobile App,2,40.30,22.00,0,UPI,Completed
+O1130,2026-05-18,C0385,Cotton Bedsheet,Home,East,Website,3,39.00,19.00,5,Card,Returned
+O1131,2026-05-21,C0398,USB-C Hub,Electronics,West,Marketplace,1,36.70,16.00,10,Wallet,Completed
+O1132,2026-05-24,C0411,Skincare Set,Beauty,Central,Mobile App,2,39.40,15.00,15,Net Banking,Cancelled
+O1133,2026-05-27,C0424,Storage Organizer,Home,North,Website,3,30.10,10.00,0,UPI,Completed
+O1134,2026-05-03,C0437,Running Shoes,Sports,South,Marketplace,1,76.90,41.00,0,Card,Completed
+O1135,2026-05-06,C0450,Wireless Mouse,Electronics,East,Mobile App,2,20.60,9.00,5,Wallet,Completed
+O1136,2026-05-09,C0463,Travel Backpack,Accessories,West,Website,3,56.30,27.00,10,Net Banking,Completed
+O1137,2026-06-26,C0389,Mechanical Keyboard,Electronics,East,Marketplace,3,68.00,34.00,5,Card,Returned
+O1138,2026-06-02,C0402,Hair Dryer,Beauty,West,Mobile App,1,43.70,22.00,10,Wallet,Completed
+O1139,2026-06-05,C0415,Cotton Bedsheet,Home,Central,Website,2,42.40,19.00,15,Net Banking,Cancelled
+O1140,2026-06-08,C0428,USB-C Hub,Electronics,North,Marketplace,3,40.10,16.00,0,UPI,Completed
+O1141,2026-06-11,C0441,Skincare Set,Beauty,South,Mobile App,1,30.90,15.00,0,Card,Completed
+O1142,2026-06-14,C0454,Storage Organizer,Home,East,Website,2,21.60,10.00,5,Wallet,Completed
+O1143,2026-06-17,C0467,Running Shoes,Sports,West,Marketplace,3,80.30,41.00,10,Net Banking,Completed
+O1144,2026-06-20,C0480,Wireless Mouse,Electronics,Central,Mobile App,1,24.00,9.00,15,UPI,Completed
